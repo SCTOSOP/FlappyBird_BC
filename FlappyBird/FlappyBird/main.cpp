@@ -48,7 +48,6 @@ public:
 private:
 	RECT rect;
 	IMAGE& img;
-
 };
 
 class BK
