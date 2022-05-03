@@ -1,3 +1,3 @@
 ﻿  main.cpp
-E:\VS2022\IDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  FlappyBird.vcxproj -> H:\C++\GIT\FlappyBird_ING\FlappyBird\x64\Debug\FlappyBird.exe
+D:\visual studio\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  FlappyBird.vcxproj -> E:\Code\VSGit\FlappyBird\FlappyBird\x64\Debug\FlappyBird.exe
