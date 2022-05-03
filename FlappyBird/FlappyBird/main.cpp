@@ -81,9 +81,9 @@ int main()
 	cleardevice();
 
 	IMAGE imgbird, imgbk, imgpipeline;
-	loadimage(&imgbird, _T("E:\\Code\\VSGit\\FlappyBird\\images\\bird.png"));
-	loadimage(&imgbk, _T("E:\\Code\\VSGit\\FlappyBird\\images\\bk.png"), swidth, sheight);
-	loadimage(&imgpipeline, _T("E:\\Code\\VSGit\\FlappyBird\\images\\pipeline.png"));
+	loadimage(&imgbird, _T("../../images/bird.png"));
+	loadimage(&imgbk, _T("../../images/bk.png"), swidth, sheight);
+	loadimage(&imgpipeline, _T("../../images/pipeline.png"));
 	
 	BK bk = BK(imgbk);
 	Bird b = Bird(imgbird);
