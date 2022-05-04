@@ -1,3 +1,9 @@
+// 2022_5_4:13_19
+// By ÂíÓî×¿ Ma Yuzhuo
+// This is an open source game project.
+// EasyX library support is required.
+// Visual Studio version 2022.
+
 #include <iostream>
 #include <graphics.h>
 #include <vector>
